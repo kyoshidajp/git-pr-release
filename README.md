@@ -8,6 +8,7 @@ pre-release checks. `git-pr-release` automatically collect pull requests
 merged into master branch and generates the content of the release
 pull request.
 
+
 ![Screenshot](https://cloud.githubusercontent.com/assets/113420/3147184/61bf2eec-ea53-11e3-835b-50d63ed11b39.png)
 
 Suitable for branching strategy like below (similar to git-flow):
